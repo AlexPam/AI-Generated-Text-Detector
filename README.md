@@ -39,11 +39,8 @@
 
 ## ABOUT THE PROJECT
 
- This project is an analysis of the projects during the Gitcoin Grant Beta Grant Round (GR) 15. The aim of each GR which is held quaterly is to fund promising open source 
- projects mainly in the web 3 space. The GR is hosted by Gitcoin using the quadratic funding system. The use of the quadratic funding system was to create a free and fair voting 
- ecosystem for all projects irrespective of thier fudning power. Ditto to this innovation, criminal mastermind know as SYBILS use fraudulent methods to vote for undeserving projects 
- during the funding/ grant rounds. A sybil in lame man term is an attacker who creates multipe identities (wallet address) simultaneously within a peer-to network.
- So the main aim of this project is to identify and flag out fraudulent projects during the GR15 beta.
+Use of AI Generated Text has turend out to be one of the ways most cyber perpetrators common referred to as Sybils in ths context describe their projects during the appilcation phase. Also, Statistics shows that this traits has a probabilty of increasing over time. To mitigate this, I built project for the community to build upon in mitigating this challenge. During the GR15 Beta analysis, I tried searching for a similar open source projects to enable me build upon on Legos that I made use for my analysis but surprisingly I found non. This model though not yet perfect but a promising start for mitigating this problem of AI Generated Texts.
+
  
  ###  Model
  
